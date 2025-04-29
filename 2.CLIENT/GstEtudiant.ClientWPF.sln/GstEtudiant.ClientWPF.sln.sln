@@ -3,20 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GstEtudiantMVVM.Desktop", "..\GstEtudiantMVVM.Desktop\GstEtudiantMVVM.Desktop.csproj", "{E9371F75-491E-4FDD-9766-9736829D196A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA.GestionEtudiant.Deskptop", "CA.GestionEtudiant.Deskptop\CA.GestionEtudiant.Deskptop.csproj", "{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E9371F75-491E-4FDD-9766-9736829D196A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9371F75-491E-4FDD-9766-9736829D196A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9371F75-491E-4FDD-9766-9736829D196A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9371F75-491E-4FDD-9766-9736829D196A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
