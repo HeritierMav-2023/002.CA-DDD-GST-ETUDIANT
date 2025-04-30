@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\components\\layout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\components\\layout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\components\\layout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\components\\layout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\obj\\Debug\\net6.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CA.GestionEtudiant.Deskptop\\obj\\Debug\\net6.0-windows\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\viewmodels\\students\\studentlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\viewmodels\\students\\studentlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\views\\students\\studentlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\views\\students\\studentlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\views\\students\\studentlistingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\views\\students\\studentlistingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\components\\students\\studentlisting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\components\\students\\studentlisting.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\viewmodels\\students\\createstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\viewmodels\\students\\createstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\views\\students\\studentlistingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\views\\students\\studentlistingview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\components\\layout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\components\\layout.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\components\\layout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|solutionrelative:ca.gestionetudiant.deskptop\\components\\layout.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{186CEE6C-6E4C-4EED-B182-8F7AA49B174E}|CA.GestionEtudiant.Deskptop\\CA.GestionEtudiant.Deskptop.csproj|c:\\users\\user\\repositories\\002.ca-ddd-gst-etudiant\\2.client\\gstetudiant.clientwpf.sln\\ca.gestionetudiant.deskptop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -38,44 +54,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\obj\\Debug\\net6.0-windows\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\obj\\Debug\\net6.0-windows\\MainWindow.g.cs",
+              "ToolTip": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\obj\\Debug\\net6.0-windows\\MainWindow.g.cs",
+              "RelativeToolTip": "CA.GestionEtudiant.Deskptop\\obj\\Debug\\net6.0-windows\\MainWindow.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:17:11.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentListingView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Views\\Students\\StudentListingView.xaml.cs",
+              "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\Views\\Students\\StudentListingView.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Views\\Students\\StudentListingView.xaml.cs",
+              "RelativeToolTip": "CA.GestionEtudiant.Deskptop\\Views\\Students\\StudentListingView.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:11:25.052Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\MainWindow.xaml",
+              "RelativeToolTip": "CA.GestionEtudiant.Deskptop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T14:30:48.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Services\\StudentService.cs",
+              "RelativeToolTip": "CA.GestionEtudiant.Deskptop\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:24:58.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\ViewModels\\Students\\CreateStudentViewModel.cs",
+              "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\ViewModels\\Students\\CreateStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\ViewModels\\Students\\CreateStudentViewModel.cs",
+              "RelativeToolTip": "CA.GestionEtudiant.Deskptop\\ViewModels\\Students\\CreateStudentViewModel.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAkwAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:28:29.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Layout.xaml",
               "DocumentMoniker": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Components\\Layout.xaml",
               "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\Components\\Layout.xaml",
               "ToolTip": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Components\\Layout.xaml",
               "RelativeToolTip": "CA.GestionEtudiant.Deskptop\\Components\\Layout.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-28T19:33:40.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T19:33:40.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentListingView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Views\\Students\\StudentListingView.xaml.cs",
-              "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\Views\\Students\\StudentListingView.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Views\\Students\\StudentListingView.xaml.cs",
-              "RelativeToolTip": "CA.GestionEtudiant.Deskptop\\Views\\Students\\StudentListingView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T19:06:26.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Layout.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Components\\Layout.xaml.cs",
               "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\Components\\Layout.xaml.cs",
@@ -83,32 +141,18 @@
               "RelativeToolTip": "CA.GestionEtudiant.Deskptop\\Components\\Layout.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T18:53:57.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T18:53:57.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentListing.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Components\\Students\\StudentListing.xaml",
-              "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\Components\\Students\\StudentListing.xaml",
-              "ToolTip": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Components\\Students\\StudentListing.xaml",
-              "RelativeToolTip": "CA.GestionEtudiant.Deskptop\\Components\\Students\\StudentListing.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-28T13:52:07.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentListingView.xaml",
               "DocumentMoniker": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Views\\Students\\StudentListingView.xaml",
               "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\Views\\Students\\StudentListingView.xaml",
               "ToolTip": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\Views\\Students\\StudentListingView.xaml",
               "RelativeToolTip": "CA.GestionEtudiant.Deskptop\\Views\\Students\\StudentListingView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-28T13:52:02.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T13:52:02.367Z"
             },
             {
               "$type": "Document",
@@ -118,14 +162,25 @@
               "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\App.xaml.cs",
               "ToolTip": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\App.xaml.cs",
               "RelativeToolTip": "CA.GestionEtudiant.Deskptop\\App.xaml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA3wDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T13:48:16.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T13:48:16.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "StudentListingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\ViewModels\\Students\\StudentListingViewModel.cs",
+              "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\ViewModels\\Students\\StudentListingViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\ViewModels\\Students\\StudentListingViewModel.cs",
+              "RelativeToolTip": "CA.GestionEtudiant.Deskptop\\ViewModels\\Students\\StudentListingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:24:23.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\User\\REPOSITORIES\\002.CA-DDD-GST-ETUDIANT\\2.CLIENT\\GstEtudiant.ClientWPF.sln\\CA.GestionEtudiant.Deskptop\\App.xaml",
               "RelativeDocumentMoniker": "CA.GestionEtudiant.Deskptop\\App.xaml",

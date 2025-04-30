@@ -23,7 +23,7 @@ namespace CA.GestionEtudiant.Deskptop.Views.Students
         public StudentListingView()
         {
             InitializeComponent();
-            
+           
         }
         private void UserControl_Loaded(object sender, RoutedEventArgs e)
         {
@@ -32,6 +32,16 @@ namespace CA.GestionEtudiant.Deskptop.Views.Students
             {
                 this.MaxWidth = parentWindow.ActualWidth * 0.8; // 80% de la largeur de la fenêtre
             }
+        }
+
+        private void btnOpenDialogue_Click(object sender, RoutedEventArgs e)
+        {
+            DialogOverlay.Visibility = Visibility.Visible;
+        }
+
+        private void CloseDialogButton_Click(object sender, RoutedEventArgs e)
+        {
+            DialogOverlay.Visibility = Visibility.Collapsed;
         }
     }
 }

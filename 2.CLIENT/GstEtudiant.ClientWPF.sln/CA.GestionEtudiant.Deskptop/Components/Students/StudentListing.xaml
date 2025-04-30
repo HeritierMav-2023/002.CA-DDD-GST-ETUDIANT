@@ -16,7 +16,7 @@
             <DataGridTextColumn Header="Email" IsReadOnly="True" Width="*" Binding="{Binding Path=Email}"/>
             <DataGridTextColumn Header="Cours" IsReadOnly="True" Width="*" Binding="{Binding Path=Cours}"/>
             <DataGridTextColumn Header="Entreprise" IsReadOnly="True" Width="*" Binding="{Binding Path=Entreprise}"/>
-            <DataGridTextColumn Header="NbreHeure" IsReadOnly="True" Width="*" Binding="{Binding Path=NbreHeure}"/>
+            <DataGridTextColumn Header="NbreHeure" IsReadOnly="True" Width="*" Binding="{Binding Path=NbreHeures}"/>
             <DataGridTextColumn Header="Prix" IsReadOnly="True" Width="*" Binding="{Binding Path=Prix}"/>
             <DataGridTextColumn Header="DebutCours" IsReadOnly="True" Width="*" Binding="{Binding Path=DebutCours}"/>
             <DataGridTextColumn Header="FinCours" IsReadOnly="True" Width="*" Binding="{Binding Path=FinCours}"/>

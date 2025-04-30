@@ -59,11 +59,12 @@ namespace CA.GestionEtudiant.Deskptop.Stores.Students
             await LoadStudentsAsync();
         }
 
-        //public void AddStudent(StudentModel student)
-        //{
-        //    _students.Add(student);
-        //    StudentCreated?.Invoke(student);
-        //}
+        // TODO ON va faire passer la methode ADD service ici
+        public void AddStudent(Student student)
+        {
+            _students.Add(student);
+            StudentCreated?.Invoke(student);
+        }
 
     }
 }

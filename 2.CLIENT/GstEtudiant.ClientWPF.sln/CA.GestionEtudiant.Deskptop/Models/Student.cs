@@ -11,10 +11,10 @@ namespace CA.GestionEtudiant.Deskptop.Models
         public string Email { get; set; } = null!;
         public string Cours { get; set; } = null!;
         public string Entreprise { get; set; } = null!;
-        public int NbreHeure { get; set; }
+        public int NbreHeures { get; set; }
         public decimal Prix { get; set; }
         public DateTime DebutCours { get; set; }
         public DateTime FinCours { get; set; }
-        public string EnseignantFullName { get; set; } = null!;
+        public string Enseignant { get; set; } = null!;
     }
 }

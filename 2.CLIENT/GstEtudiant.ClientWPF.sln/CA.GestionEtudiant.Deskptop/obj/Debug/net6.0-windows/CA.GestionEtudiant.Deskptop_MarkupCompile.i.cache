@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\User\REPOSITORIES\002.CA-DDD-GST-ETUDIANT\2.CLIENT\GstEtudiant.ClientWPF.sln\CA.GestionEtudiant.Deskptop\App.xaml
-9976379517
+5-1825549963
 
-46-937961967
+36777695903
 194178300874
-Components\GlobalMessageBanner.xaml;Components\Layout.xaml;Components\Posts\Post.xaml;Components\Posts\PostListing.xaml;Components\Students\StudentListing.xaml;MainWindow.xaml;Views\Posts\PostHomeView.xaml;Views\Posts\PostListingView.xaml;Views\Students\StudentListingView.xaml;
+Components\GlobalMessageBanner.xaml;Components\Layout.xaml;Components\Students\StudentListing.xaml;MainWindow.xaml;Views\Students\StudentListingView.xaml;
 
 False
 

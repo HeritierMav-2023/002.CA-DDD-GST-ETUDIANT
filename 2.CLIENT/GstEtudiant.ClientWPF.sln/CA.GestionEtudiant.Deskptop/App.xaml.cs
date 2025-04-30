@@ -1,13 +1,9 @@
 ﻿using CA.GestionEtudiant.Deskptop.Services.Navigations;
 using CA.GestionEtudiant.Deskptop.Stores;
-using CA.GestionEtudiant.Deskptop.Stores.Posts;
 using CA.GestionEtudiant.Deskptop.Stores.Students;
 using CA.GestionEtudiant.Deskptop.ViewModels.Commons;
 using CA.GestionEtudiant.Deskptop.ViewModels.Messages;
-using CA.GestionEtudiant.Deskptop.ViewModels.Posts;
 using CA.GestionEtudiant.Deskptop.ViewModels.Students;
-using System.Configuration;
-using System.Data;
 using System.Windows;
 
 namespace CA.GestionEtudiant.Deskptop
@@ -19,7 +15,6 @@ namespace CA.GestionEtudiant.Deskptop
     {
         //1- Proprietes
         private readonly NavigationStore _navigationStore;
-        private readonly PostStore _postStore;
         private readonly StudentStore _studentStore;
         private readonly MessageStore _messageStore;
 
@@ -27,7 +22,6 @@ namespace CA.GestionEtudiant.Deskptop
         public App()
         {
             _navigationStore = new NavigationStore();
-            _postStore = new PostStore( new Services.PostService());
             _studentStore = new StudentStore( new Services.StudentService());
             _messageStore = new MessageStore();
         }
@@ -52,40 +46,13 @@ namespace CA.GestionEtudiant.Deskptop
         }
 
         //1- Create ViewModel
-        private PostHomeViewModel CreatePostHomeViewModel()
-        {
-            return new PostHomeViewModel(
-                new CreatePostViewModel(_postStore, _messageStore),
-                RecentPostListingViewModel.LoadViewModel(_postStore, _messageStore));
-        }
-
-        private PostListingViewModel CreatePostListingViewModel()
-        {
-            return PostListingViewModel.LoadViewModel(_postStore, _messageStore);
-        }
-
         private StudentListingViewModel CreateStudentListingViewModel() 
         {
             return StudentListingViewModel.LoadViewModel(_studentStore, _messageStore);
         }
 
         //2- Create NavigationService
-        private INavigationService CreatePostListingNavigationService()
-        {
-            return new LayoutNavigationService<PostListingViewModel>(_navigationStore,
-                CreatePostListingViewModel,
-                CreateGlobalMessageViewModel,
-                CreateNavigationBarViewModel);
-        }
-
-        private INavigationService CreatePostHomeNavigationService()
-        {
-            return new LayoutNavigationService<PostHomeViewModel>(_navigationStore,
-                CreatePostHomeViewModel,
-                CreateGlobalMessageViewModel,
-                CreateNavigationBarViewModel);
-        }
-
+       
         private INavigationService CreateStudentListingNavigationService() 
         {
             return new LayoutNavigationService<StudentListingViewModel>(_navigationStore,
@@ -97,8 +64,6 @@ namespace CA.GestionEtudiant.Deskptop
         private NavigationBarViewModel CreateNavigationBarViewModel()
         {
             return new NavigationBarViewModel(
-                CreatePostHomeNavigationService(),
-                CreatePostListingNavigationService(),
                 CreateStudentListingNavigationService());// ajout de la navigation vers la liste des produits Tod 3
         }
 

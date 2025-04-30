@@ -17,11 +17,11 @@ namespace CA.GestionEtudiant.Deskptop.Services
                     Email = "email@yahoo.fr",
                     Cours = "Math",
                     Entreprise = "Google",
-                    NbreHeure = 20,
+                    NbreHeures = 20,
                     Prix = 1000,
                     DebutCours = new DateTime(2023, 1, 1),
                     FinCours = new DateTime(2023, 6, 1),
-                    EnseignantFullName = "Jane Smith",
+                    Enseignant = "Jane Smith",
                 },
                 new Student() {
                     Id = 2,
@@ -30,11 +30,11 @@ namespace CA.GestionEtudiant.Deskptop.Services
                     Email = "email1@ gmail.com",
                     Cours = "Science",
                     Entreprise = "Microsoft",
-                    NbreHeure = 15,
+                    NbreHeures = 15,
                     Prix = 1200,
                     DebutCours = new DateTime(2023, 2, 1),
                     FinCours = new DateTime(2023, 7, 1),
-                    EnseignantFullName  = "Bob Brown"
+                    Enseignant  = "Bob Brown"
                 },
 
                 new Student() {
@@ -44,11 +44,11 @@ namespace CA.GestionEtudiant.Deskptop.Services
                     Email ="email2@gmail.com",
                     Cours = "History",
                     Entreprise = "Amazon",
-                    NbreHeure = 10,
+                    NbreHeures = 10,
                     Prix = 800,
                     DebutCours = new DateTime(2023, 3, 1),
                     FinCours = new DateTime(2023, 8, 1),
-                    EnseignantFullName = "Eve White"
+                    Enseignant = "Eve White"
                 },
 
                 new Student() {
@@ -58,11 +58,11 @@ namespace CA.GestionEtudiant.Deskptop.Services
                     Email= "enza@ gmail.com",
                     Cours = "Geography",
                     Entreprise = "Facebook",
-                    NbreHeure = 25,
+                    NbreHeures = 25,
                     Prix = 1500,
                     DebutCours = new DateTime(2023, 4, 1),
                     FinCours = new DateTime(2023, 9, 1),
-                    EnseignantFullName = "Frank Green"
+                    Enseignant = "Frank Green"
                 }
             });
         }

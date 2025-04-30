@@ -10,17 +10,16 @@ namespace CA.GestionEtudiant.Deskptop.ViewModels.Commons
     public class NavigationBarViewModel : ViewModelBase
     {
         //1- Propriétés
-        public ICommand NavigatePostHomeCommand { get; }
-        public ICommand NavigatePostListingCommand { get; }
+        //public ICommand NavigatePostHomeCommand { get; }
+        //public ICommand NavigatePostListingCommand { get; }
 
         public ICommand NavigateStudentListingCommand { get; }
 
         //2- Constructeur
-        public NavigationBarViewModel(INavigationService postsHomeNavigationService,
-             INavigationService postListingNavigationService, INavigationService studentListingService)
+        public NavigationBarViewModel(INavigationService studentListingService)
         {
-            NavigatePostHomeCommand = new NavigateCommand(postsHomeNavigationService);
-            NavigatePostListingCommand = new NavigateCommand(postListingNavigationService);
+            //NavigatePostHomeCommand = new NavigateCommand(postsHomeNavigationService);
+            //NavigatePostListingCommand = new NavigateCommand(postListingNavigationService);
             NavigateStudentListingCommand = new NavigateCommand(studentListingService);
         }
 
